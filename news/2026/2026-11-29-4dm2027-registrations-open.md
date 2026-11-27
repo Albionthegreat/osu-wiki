@@ -53,4 +53,4 @@ Players who sign up and meet the following criteria will be eligible to particip
 
 To keep up with the tournament's latest announcements, we encourage joining the [4DM Discord server](https://discord.gg/6gsHEvhv9E), checking the [forum post](https://osu.ppy.sh/community/forums/topics/2266894), and reading the [wiki article](/wiki/Tournaments/4DM/2027) for more information. We cannot wait to see 4DM2027 happen!
 
-—RandomeLoL & The 4DM Coordinator Team
+—The 4DM Coordinator Team
