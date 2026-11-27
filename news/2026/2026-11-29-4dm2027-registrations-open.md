@@ -15,7 +15,9 @@ With the [osu!mania World Cup 2026](/wiki/Tournaments/MWC/2026_4K) now behind us
 
 We are keeping the catch-up mechanic introduced during [4DM2024](/wiki/Tournaments/4DM/2024). When a team reaches half the amount of points required to win a given match, the opponent will be required to ban an additional map from the pool. However, in contrast to 4DM2024 the amount of protects and bans will be equalised this year. Meaning an additional protect will be issued to teams at the start of a match to prevent their favourite skillsets from getting banned out, and increasing the possibilities for team composition.
 
-Additionally, to help create further possibilities and opportunities, [4DM2027](/wiki/Tournaments/4DM/2027) will see Hard Rock getting introduced to the mappools. Ever thought your accuracy was good? Now is the time to prove it! Hard Rock picks will not be limited to your standard Rice accuracy charts either, as this tournament will also feature Long Note maps with a Hard Rock requirement. Each mappool will see a Rice and Long Note chart with Hard Rock. This change will also be included in the Qualifiers mappool, with our stage 5 and 6 picks being Rice- and Long Note-focused Hard Rock picks respectively. Similar to last edition, teams will be able to select their Qualifier playing order beforehand, so choose well!
+Additionally, to help create further possibilities and opportunities, [4DM2027](/wiki/Tournaments/4DM/2027) will see Hard Rock getting introduced to the mappools. Ever thought your accuracy was good? Now is the time to prove it! Hard Rock picks will not be limited to your standard Rice accuracy charts either, as this tournament will also feature Long Note maps with a Hard Rock requirement. 
+
+Each mappool will see a Rice and Long Note chart with Hard Rock. This change will also be included in the Qualifiers mappool, with our stage 5 and 6 picks being Rice- and Long Note-focused Hard Rock picks respectively. Similar to last edition, teams will be able to select their Qualifier playing order beforehand, so choose well!
 
 ## Tournament schedule
 
