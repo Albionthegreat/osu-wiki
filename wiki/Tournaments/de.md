@@ -825,6 +825,7 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | [4 Digit osu!mania World Cup 4](4DM/4) | 08.01.2022 | 20.02.2022 | ::{ flag=FR }:: Frankreich | ::{ flag=TH }:: Thailand | ::{ flag=PE }:: Peru |
 | [4 Digit osu!mania World Cup 2023](4DM/2023) | 14.01.2023 | 04.03.2023 | ::{ flag=CN }:: China | ::{ flag=SG }:: Singapur | ::{ flag=CA }:: Kanada |
 | [4 Digit osu!mania World Cup 2024](4DM/2024) | 13.01.2024 | 25.02.2024 | ::{ flag=VN }:: Vietnam | ::{ flag=US }:: Vereinigte Staaten | ::{ flag=TW }:: Taiwan |
+| [4 Digit osu!mania World Cup 2027: The Last Calling](4DM/2027) | 23.01.2027 | 07.03.2027 | *Noch offen* | *Noch offen* | *Noch offen* |
 
 #### [6K Autumn Showdown Tournament](6KAST)
 

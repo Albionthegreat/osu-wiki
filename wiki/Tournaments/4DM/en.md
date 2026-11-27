@@ -8,3 +8,4 @@ Index page for all of the 4 Digit osu!mania World Cup series.
 - [4 Digit osu!mania World Cup 4](4)
 - [4 Digit osu!mania World Cup 2023](2023)
 - [4 Digit osu!mania World Cup 2024](2024)
+- [4 Digit osu!mania World Cup 2027: The Last Calling](2027)

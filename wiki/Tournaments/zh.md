@@ -825,6 +825,7 @@
 | [4 Digit osu!mania World Cup 4](4DM/4) | 2022-01-08 | 2022-02-20 | ::{ flag=FR }:: 法国 | ::{ flag=TH }:: 泰国 | ::{ flag=PE }:: 秘鲁 |
 | [4 Digit osu!mania World Cup 2023](4DM/2023) | 2023-01-14 | 2023-03-04 | ::{ flag=CN }:: 中国 | ::{ flag=SG }:: 新加坡 | ::{ flag=CA }:: 加拿大 |
 | [4 Digit osu!mania World Cup 2024](4DM/2024) | 2024-01-13 | 2024-02-25 | ::{ flag=VN }:: 越南 | ::{ flag=US }:: 美国 | ::{ flag=TW }:: 台湾 |
+| [4 Digit osu!mania World Cup 2027: The Last Calling](4DM/2027) | 2027-01-23 | 2027-03-07 | *待定* | *待定* | *待定* |
 
 #### [6K Autumn Showdown Tournament](6KAST)
 
