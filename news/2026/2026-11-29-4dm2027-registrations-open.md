@@ -53,6 +53,6 @@ Players who sign up and meet the following criteria will be eligible to particip
 - **You must not have been a part of a former winning 4DM team.** 4DM1 winners are excluded from this.
 - **Join the official [Discord server](https://discord.gg/6gsHEvhv9E) for 4DM2027.**
 
-To keep up with the tournament's latest announcements, we encourage joining the [4DM Discord server](https://discord.gg/6gsHEvhv9E), checking the [forum post](https://osu.ppy.sh/community/forums/topics/2266894), and reading the [wiki article](/wiki/Tournaments/4DM/2027) for more information. We cannot wait to see 4DM2027 happen!
+To keep up with the tournament's latest announcements, we encourage joining the [4DM Discord server](https://discord.gg/6gsHEvhv9E), checking the [forum post](https://osu.ppy.sh/community/forums/topics/2266894), and reading the [wiki article](/wiki/Tournaments/4DM/2027) for more information. We cannot wait for 4DM to commence, and we hope you will be a part of it!
 
 —The 4DM Coordinator Team

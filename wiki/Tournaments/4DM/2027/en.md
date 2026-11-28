@@ -82,11 +82,11 @@ The 4 Digit osu!mania World Cup 2027 was run by various community members.
 
 ### Screening phase
 
-1. The planned *unique profile badge* prize depends on 4DM2024's eligibility for [official tournament support](/wiki/Tournaments/Official_support). Players will be [screened](/wiki/Tournaments/Official_support#tournament-screening) by osu! staff and players found to be ineligible for tournament play will be denied entry. Consult [accounts@ppy.sh](mailto:accounts@ppy.sh) for appeals; if a failed screening result is retracted and a host is notified, the player will still be eligible for participation in the tournament.
+1. The planned *unique profile badge* prize depends on 4DM2027's eligibility for [official tournament support](/wiki/Tournaments/Official_support). Players will be [screened](/wiki/Tournaments/Official_support#tournament-screening) by osu! staff and players found to be ineligible for tournament play will be denied entry. Consult [accounts@ppy.sh](mailto:accounts@ppy.sh) for appeals; if a failed screening result is retracted and a host is notified, the player will still be eligible for participation in the tournament.
 
 ### Teams
 
-1. Just like the official osu!mania World Cups, 4DM2024 will be a country-based team tournament.
+1. Just like the official osu!mania World Cups, 4DM2027 will be a country-based team tournament.
    - The country flag displayed on the osu! profile determines which country a player may play for.
    - At the end of the registration and screening phases, a team captain will be picked by the hosts from each country's signup list based on tournament competency.
    - This team captain will pick the members to play alongside them on their country's team. The deadline for captains to submit their countries' teams is by January 15th at 23:59 UTC.
